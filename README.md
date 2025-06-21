@@ -35,3 +35,5 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 ### Support or Contact
 
 Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+
+我懒得改这个readme了，但是这几把号俩都是我的，某人注册的账号真是猎奇害我现在用得名字没得用chinacommand，。。。。。
